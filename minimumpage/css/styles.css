@@ -6,8 +6,9 @@ body{
 
 h1{
 font-family: 'Montserrat', sans-serif;
-font-size: 24px;
+font-size: 32px;
 color: #fffb96;
+font-weight: 600;
 }
 
 h2{
@@ -27,9 +28,14 @@ h3{
 }
 
 h4{
-font-family: 'Montserrat', sans-serif;
-font-size: 24px;
-color: #3e5436;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	text-decoration: underline;
+	color:#fffb96 ;
+	text-align: center;
+	margin-left: 270px;
+	margin-top: 70px;
 
 }
 
