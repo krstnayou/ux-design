@@ -23,7 +23,7 @@ h3{
 	font-weight: 500;
 	text-decoration: underline;
 	color:#fffb96 ;
-	text-align: center;
+	text-align: left;
 	margin-top: 70px;
 }
 
@@ -33,9 +33,9 @@ h4{
 	font-weight: 500;
 	text-decoration: underline;
 	color:#fffb96 ;
-	text-align: center;
-	margin-left: 270px;
+	text-align: left;
 	margin-top: 70px;
+	margin-left: 850px;
 
 }
 
@@ -173,8 +173,11 @@ li{
 
 
 #journeyimg{
-	width: 40vw;
-	margin-left: 400px;
+	width: 48vw;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	display: inline-block;
+
 }
 
 hr{
@@ -194,28 +197,29 @@ margin-top: 80px;
 }
 
 #finder{
-	width: 60vw;
+	width: 65vw;
 	margin-left: 400px;
 }
 
 #minimumbox{
-	width: 60vw;
+	width: 65vw;
 	margin-left: 400px;
 }
 
 #minimumbox2{
-	width: 60vw;
+	width: 65vw;
 	margin-left: 400px;
 	margin-bottom: 60px;
 }
 
 #overview{
-	width: 60vw;
+	width: 65vw;
 	margin-left: 400px;
+	margin-top: 60px;
 }
 
 #subimg{
-	width: 40vw;
+	width: 50vw;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	display: inline-block;
