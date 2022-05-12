@@ -1,0 +1,258 @@
+
+body{
+	background-color: #3e5435;
+	margin-bottom: 100px;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 24px;
+color: #fffb96;
+}
+
+h2{
+font-family: 'Nunito',sans-serif;
+font-size: 20px;
+color: #fffb96;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	text-decoration: underline;
+	color:#fffb96 ;
+	text-align: center;
+	margin-top: 70px;
+}
+
+h4{
+font-family: 'Montserrat', sans-serif;
+font-size: 24px;
+color: #3e5436;
+
+}
+
+h5{
+	font-family: 'Nunito', sans-serif;
+	font-size: 14px;
+	color:#fffb96 ;
+}
+
+h6{
+font-family: 'Nunito',sans-serif;
+font-size: 20px;
+color: #3e5436;
+}
+
+h7{
+
+}
+
+header{
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 60px;
+}
+
+#logo{
+	width: 250px;
+}
+
+
+#menu{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 60px;
+	color: #fffb96;
+}
+
+a{
+	text-decoration: underline;
+	color: #fffb96;
+}
+
+li{
+	display: inline-block;
+}
+
+#sectionheader{
+	margin-top: 60px;
+	margin-left: 150px;
+	position: absolute;
+	display: inline-flex;
+	width: 300px;
+}
+
+#finalprototype{
+	margin-top: 60px;
+	margin-left: 150px;
+	position: relative;
+	color: #fffb96;
+}
+
+#problemstatement{
+	margin-top: 60px;
+	position: relative;
+	width: 40vw;
+	margin-bottom: 60px;
+	margin-left: 800px;
+	display: inline-flex;
+}
+
+#designprocess{
+	margin-top: 60px;
+	position: relative;
+	width: 40vw;
+	margin-bottom: 60px;
+	margin-left: 800px;
+	display: inline-block;
+
+}
+
+#userresearch{
+	margin-top: 60px;
+	position: relative;
+	width: 40vw;
+	margin-bottom: 60px;
+	margin-left: 800px;
+	display: inline-block;
+
+}
+
+
+#lofirationale{
+	margin-top: 60px;
+	margin-left: 800px;
+	position: relative;
+	width: 40vw;
+	margin-bottom: 60px;
+	display: inline-block;
+}
+
+#journeymap{
+	margin-top: 60px;
+	margin-left: 800px;
+	position: relative;
+	margin-bottom: 60px;
+	display: inline-block;
+
+}
+
+#hifirationale{
+	margin-top: 60px;
+	margin-left: 800px;
+	position: relative;
+	width: 40vw;
+	margin-bottom: 60px;
+	display: inline-block;
+}
+
+#designprocess{
+	margin-top: 60px;
+	margin-left: 800px;
+	position: relative;
+	margin-bottom: 60px;
+}
+
+
+#reflection{
+	margin-top: 60px;
+	margin-left: 800px;
+	position: relative;
+	margin-bottom: 60px;
+	width: 40vw;
+	display: inline-block;
+}
+
+
+#journeyimg{
+	width: 40vw;
+	margin-left: 400px;
+}
+
+hr{
+
+	border-top: 1px solid #fffb96;
+
+}
+
+
+
+#footer{
+margin-top: 80px;
+	position: relative;
+	display: inline-flex;
+	margin-left: 100px;
+
+}
+
+#finder{
+	width: 60vw;
+	margin-left: 400px;
+}
+
+#minimumbox{
+	width: 60vw;
+	margin-left: 400px;
+}
+
+#minimumbox2{
+	width: 60vw;
+	margin-left: 400px;
+	margin-bottom: 60px;
+}
+
+#overview{
+	width: 60vw;
+	margin-left: 400px;
+}
+
+#subimg{
+	width: 40vw;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+#userresearchimg{
+	width: 40vw;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: inline-block;
+}
+
+
+#demo{
+	width: 40vw;
+	margin-left: 40vw;
+	margin-bottom: 10px;
+
+}
+
+#demo2{
+	width: 40vw;
+	margin-left: 40vw;
+	margin-bottom: 60px;
+
+}
+
+#next{
+	float: right;
+	width: 40px;
+	display: inline-flex;
+	position: absolute;
+	margin-left: 45vw;
+	margin-top: 100px;
+}
+
+#back{
+	float: right;
+	width: 40px;
+	display: inline-flex;
+	position: absolute;
+	margin-left: 40vw;
+	margin-top: 100px;
+}
+
+
